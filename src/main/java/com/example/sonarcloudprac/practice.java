@@ -11,5 +11,6 @@ package com.example.sonarcloudprac;
 public class practice {
     public void practice(){
         System.out.println("hello world");
+        System.out.println("왜 안돼");
     }
 }
